@@ -28,8 +28,7 @@ Aplicação de cronômetro desenvolvida com HTML, CSS e JavaScript, com foco na 
 ![alt text](telaprincipal.png)
 
  ## Sobre Projeto
- Aplicação de cronômetro desenvolvida com HTML, CSS e JavaScript, com foco na prática de manipulação do DOM e controle de tempo em aplicações web.
-
+Este projeto consiste em um cronômetro desenvolvido com HTML, CSS e JavaScript puro, que permite ao usuário iniciar, pausar e resetar a contagem do tempo em tempo real.
 
 
 ## ✅ Funcionalidades Implementadas
