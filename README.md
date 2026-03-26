@@ -24,29 +24,19 @@ Aplicação de cronômetro desenvolvida com HTML, CSS e JavaScript, com foco na 
 
 ## Design do Projeto
 
-## Antes
-![alt text](image.png)
-##
-## Depois
-![alt text](imagenova.png)
 
-## Detalhes do uso de API
+![alt text](telaprincipal.png)
 
-O endpoint da API para pesquisar os personagens foi o seguinte:
+ ## Sobre Projeto
+ Aplicação de cronômetro desenvolvida com HTML, CSS e JavaScript, com foco na prática de manipulação do DOM e controle de tempo em aplicações web.
 
-```
-https://dragonball-api.com/api/characters
-```
-#
+
+
 ## ✅ Funcionalidades Implementadas
 
-- [x] Buscar todos os personagens  
-- [x] Buscar por raça  
-- [x] Buscar por gênero  
-- [x] Música de fundo ao carregar a página  
+- [x] Iniciar o cronômetro
+- [x] Pausar a contagem
+- [x] Resetar o tempo
+- [x] Atualização em tempo real
 
-## 🚀 Próximas Melhorias
 
-- [ ] Tema escuro e claro  
-- [ ] Buscar mais raças  
-- [ ] Melhorar o design   
